@@ -20,7 +20,7 @@ A simple project that allows you to enter a **GitHub username** and instantly fe
 3. The repositories of that user will be displayed  
 
 ## 📷 Demo
-[Live Demo](http://loia-radwan.github.io/github-repo) <!-- Replace with your actual demo link -->
+[Live Demo](https://loia-radwan.github.io/github-repo) <!-- Replace with your actual demo link -->
 
 ## 🔧 Customisation
 - Update the UI design to match your style  
