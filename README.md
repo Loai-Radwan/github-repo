@@ -2,6 +2,8 @@
 
 A simple project that allows you to enter a **GitHub username** and instantly fetch all the repositories that belong to that user.
 
+![a review image](github-repo.png)
+
 ## 🚀 Features
 - Search for any GitHub user by username  
 - Fetch and display a list of public repositories  
